@@ -1,0 +1,11 @@
+@font-face{
+  font-family:HKGrotesk;
+  src: url("./Fonts/HKGrotesk-Medium.otf");
+  src: url("./Fonts/HKGrotesk-Regular.otf");
+  src: url("./Fonts/HKGrotesk-SemiBold.otf");
+  src: url("./Fonts/Px-Grotesk-Light.ttf");
+  src: url("./Fonts/Px-Grotesk-Regular.ttf");
+}
+*{
+  font-family: HKGrotesk;
+}
